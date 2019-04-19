@@ -1,0 +1,3 @@
+﻿  qotdClient.cpp
+qotdClient.obj : error LNK2019: unresolved external symbol "int __cdecl UDP_send(unsigned int,char *,int,char *,char *)" (?UDP_send@@YAHIPADH00@Z) referenced in function _main
+X:\Lauren\Computer Science\Comp 311\qotdClient\Debug\qotdClient.exe : fatal error LNK1120: 1 unresolved externals
